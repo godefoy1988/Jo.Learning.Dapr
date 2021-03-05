@@ -1,0 +1,8 @@
+bin
+obj
+*.user
+/output
+/tools
+/src/.vs
+/dotnet.csproj.tar.gz
+/src/DTiSystems.Core/obj
